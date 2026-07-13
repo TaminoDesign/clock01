@@ -1,1 +1,1 @@
-[![Watch the video](https://raw.githubusercontent.com/TaminoDesign/clock01/blame/c82a79162af904f525481e75ace610af1f27ffa2/IMG_0695(1).mp4)](https://raw.githubusercontent.com/TaminoDesign/clock01/blame/c82a79162af904f525481e75ace610af1f27ffa2/IMG_0695(1).mp4)
+[![Watch the video](https://raw.githubusercontent.com/TaminoDesign/clock01/blob/main/IMG_0695(1).mp4)](https://raw.githubusercontent.com/TaminoDesign/clock01/blob/main/IMG_0695(1).mp4)
