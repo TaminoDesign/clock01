@@ -1,4 +1,4 @@
-[![Watch the video](https://vimeo.com/1209453038?share=copy&fl=sv&fe=ci)]([https://raw.githubusercontent.com/TaminoDesign/clock01/blob/main/IMG_0695(1).mp4](https://vimeo.com/1209453038?share=copy&fl=sv&fe=ci))
+Watch the video: https://vimeo.com/1209453038?share=copy&fl=sv&fe=ci
 
 I think this is it!! I have spent the last few hours connecting everything and organising it inside the housing. Additionally, finished up the code to set an alarm and replaced the quote with the weather forecast. A little less inspiring (especially with the next few days just raining) but more useful 🙃. It really has been an incredible project. It’s strange, before, I never really considered that building something like this was an option, if you know what I mean. Like just buying parts and fitting them together and it all working is really magical. For this final dev vlog, here is the final part list all together:
 
